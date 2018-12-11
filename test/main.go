@@ -1,8 +1,9 @@
 package main
 
 import (
-	_ "testgithub/test/routers"
 	"github.com/astaxie/beego"
+	_ "testgithub/test/routers"
+	_ "testgithub/test/sqlinit"
 )
 
 func main() {
