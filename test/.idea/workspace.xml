@@ -2,45 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77886eb7-9fa6-417f-ae4f-d63bb7495818" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/Animal.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/AnimalCommon.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/AnimalCommonLike.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/BackendAddAnimal.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/BackendAddStory.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/BackendAnimal.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/BackendAnimalCommon.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/BackendDeleteAnimal.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/BackendDeleteAnimalCommon.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/BackendDeleteStory.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/BackendDeleteStoryCommon.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/BackendHomeController.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/BackendStory.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/BackendStoryCommon.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/BackendUpdateAnimal.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/BackendUpdateStory.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/BaseController.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/HomeController.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/LoginController.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/RegisterController.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/Story.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/StoryCommon.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/StoryCommonLike.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/UpdateUser.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/AnimalCommon.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Base.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/LikeStatus.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Story.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/StoryCommon.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/StoryLikeStatus.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/StrayAnimal.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Struct.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Users.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlinit/Init.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlinit/InitMysql.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/app.conf" beforeDir="false" afterPath="$PROJECT_DIR$/conf/app.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/routers/router.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,12 +14,13 @@
     <session id="-748095043">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.30" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -96,8 +59,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routers/router.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="759">
-              <caret line="51" column="14" lean-forward="true" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+            <state relative-caret-position="1173">
+              <caret line="51" column="14" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
               <folding>
                 <element signature="e#17#86#0" expanded="true" />
               </folding>
@@ -108,8 +71,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controllers/BackendDeleteAnimal.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-23">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="368">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="e#21#81#0" expanded="true" />
               </folding>
@@ -120,7 +83,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controllers/BackendHomeController.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
+            <state relative-caret-position="483">
               <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
               <folding>
                 <element signature="e#21#74#0" expanded="true" />
@@ -132,8 +95,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controllers/BackendAnimal.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="41" column="29" lean-forward="true" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+            <state relative-caret-position="828">
+              <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -295,10 +258,10 @@
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../github.com/yunnet---del/gardens" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -339,11 +302,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.5005429" side_tool="true" weight="0.1684435" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49945712" visible="true" weight="0.17004265" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49945712" visible="true" weight="0.2595949" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.28555918" />
@@ -451,9 +413,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2251">
           <caret line="125" column="20" selection-start-line="125" selection-start-column="20" selection-end-line="125" selection-end-column="20" />
-          <folding>
-            <element signature="e#16#66#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -482,9 +441,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="641">
           <caret line="66" column="41" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
-          <folding>
-            <element signature="e#21#88#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -492,9 +448,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-          <folding>
-            <element signature="e#21#88#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -509,9 +462,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="e#21#81#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -550,30 +500,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/BackendHomeController.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
-          <folding>
-            <element signature="e#21#74#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/BackendAnimal.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="41" column="29" lean-forward="true" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/models/StrayAnimal.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="99" column="30" lean-forward="true" selection-start-line="99" selection-start-column="30" selection-end-line="99" selection-end-column="30" />
-          <folding>
-            <element signature="e#16#66#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -595,19 +525,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="851">
           <caret line="49" column="50" lean-forward="true" selection-start-line="49" selection-start-column="50" selection-end-line="49" selection-end-column="50" />
-          <folding>
-            <element signature="e#21#81#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/BackendDeleteAnimal.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#21#81#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -615,9 +532,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-532">
           <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
-          <folding>
-            <element signature="e#16#66#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -625,9 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="618">
           <caret line="150" column="19" lean-forward="true" selection-start-line="150" selection-start-column="19" selection-end-line="150" selection-end-column="19" />
-          <folding>
-            <element signature="e#16#66#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -635,9 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="60" selection-start-line="60" selection-end-line="68" selection-end-column="1" />
-          <folding>
-            <element signature="e#16#65#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -645,9 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
           <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
-          <folding>
-            <element signature="e#16#65#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -655,9 +560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="503">
           <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="43" selection-end-column="13" />
-          <folding>
-            <element signature="e#21#81#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -670,11 +572,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/routers/router.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="759">
-          <caret line="51" column="14" lean-forward="true" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+        <state relative-caret-position="1173">
+          <caret line="51" column="14" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
           <folding>
             <element signature="e#17#86#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/BackendDeleteAnimal.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#21#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/BackendHomeController.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <folding>
+            <element signature="e#21#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/BackendAnimal.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
         </state>
       </provider>
     </entry>
